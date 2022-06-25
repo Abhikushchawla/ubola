@@ -137,7 +137,7 @@
       </div>
     </div>
   </div>
-  <div class="col-sm-4">
+  <!-- <div class="col-sm-4">
     <div class="card">
       <img class="card-img-top" src="khalid.jpg"  style="height: 450px;">
       <div class="card-body">
@@ -148,7 +148,7 @@
         <a href="#" class="btn btn-primary">Contact</a>
       </div>
     </div>
-  </div>
+  </div> -->
 </div>
 
   </div>
